@@ -26,4 +26,4 @@ Appen kan bruge Claude fra Anthropic til at foreslå kategorier for dine posteri
 - Din Claude-nøgle fjernes under *Mere → Claude*.
 
 ## Kontakt
-Spørgsmål om privatliv: [kontakt-e-mail]
+Spørgsmål om privatliv: mikkeltange@pm.me
